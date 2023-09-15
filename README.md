@@ -1,4 +1,4 @@
-# TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel 
+# TWITTER clone with React, Tailwind, Next, Prisma, Mongo & NextAuth 
 
 
 ### Prerequisites
