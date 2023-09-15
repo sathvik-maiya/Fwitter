@@ -24,9 +24,10 @@ NEXTAUTH_SECRET=
 
 ```shell
 npm run dev
+```
 
 
-### Here are Few Snapshots
+## Here are Few Snapshots
 
 ![Screenshot (1155)](https://github.com/sathvik-maiya/Fwitter/assets/94783587/c155f277-025c-4099-9904-dc46160bc38e)
 
